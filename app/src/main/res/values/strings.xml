@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">NewSify</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="login">LOGIN</string>
+    <string name="Or">OR</string>
+    <string name="don_t_have_account">Don\'t have account? <u>Click here </u></string>
+    <string name="terms">Agree to terms and condiation</string>
+    <string name="createaccount">Create\n account</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_mobile_no">enter mobile no</string>
+    <string name="already_have_account">Already have account ?<u>Click here </u></string>
+    <string name="choose_gender">Choose Gender</string>
+    <string name="Logout">Log out</string>
+</resources>
